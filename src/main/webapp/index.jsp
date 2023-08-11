@@ -14,7 +14,7 @@
   <body>
     <div class="container">
       <h3 style="text-align: center; font-variant: small-caps">
-        I don’t care if I fall as long as someone else picks up my gun and keeps
+        I don’t care, if I fall as long as someone else picks up my gun and keeps
         on shooting.
       </h3>
       <img
