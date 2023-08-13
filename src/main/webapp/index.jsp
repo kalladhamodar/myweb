@@ -13,7 +13,7 @@
   </head>
   <body>
     <div class="container">
-      <h3 style="text-align: center; font-variant: small-caps">
+      <h3 style="text-align: center; font-variant: small-caps ; color = blue">
         I don’t care if I fall as long as someone else picks up my gun and keeps
         on shooting.
       </h3>
